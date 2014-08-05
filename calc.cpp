@@ -5,4 +5,5 @@ void main()
 {
 cout<<"Welcome to cummins college.";
 cout<<"hello";
+cout<<"Calci program";
 }
